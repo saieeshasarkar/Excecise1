@@ -3,25 +3,30 @@
     <body>
     <table style= "border: 1px solid black;" >
   <tr style= "border: 1px solid black;" >
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>id</th>
+    <th>name</th>
+    <th>pass</th>
+    <th>age</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>1</td>
+    <td>a</td>
+    <td>abc</td>
+    <td>10</td>
   </tr>
-  <tr style= "border: 1px solid black;">
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr style= "border: 1px solid black;">
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+ <tr> 
+     <td>2</td>
+     <td>b</td>
+     <td>bcd</td>
+     <td>15</td>
+ </tr>
+ <tr> 
+     <td>3</td>
+     <td>c</td>
+     <td>def</td>
+     <td>20</td>
+ </tr>
+ 
 </table>
 
 
