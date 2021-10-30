@@ -17,6 +17,11 @@
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
+  <tr style= "border: 1px solid black;">
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
 </table>
 
 
